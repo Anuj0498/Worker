@@ -1,4 +1,4 @@
-package Worker;
+package Java;
 
 public class BST {
 

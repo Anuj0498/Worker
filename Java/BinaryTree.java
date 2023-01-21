@@ -1,4 +1,4 @@
-package Worker;
+package Java;
 
 import java.util.Scanner;
 
